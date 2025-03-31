@@ -15,3 +15,5 @@ To make a virtual environment, either use the following command or consider [vir
 ```bash
 python -m venv .venv
 ```
+
+Group project poster link: https://docs.google.com/presentation/d/1lZTOGErbuEHQERzOb0APedkiZ3pXGXxZ7SzoU0vRqJU/edit#slide=id.g22bd54775a0_0_0 
